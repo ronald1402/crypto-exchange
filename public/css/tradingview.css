@@ -1,0 +1,15 @@
+html.theme-dark .chart-page {
+    background-color: var(--main-background-color);
+}
+
+html.theme-light .chart-page {
+    background-color: var(--main-background-color);
+}
+
+html.theme-light .group-wWM3zP_M- {
+    background-color: transparent;
+}
+
+html.theme-dark .group-wWM3zP_M- {
+    background-color: transparent;
+}

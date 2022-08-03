@@ -1,0 +1,112 @@
+[
+  {
+    "symbol": "ETH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "address": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "symbol": "LOCAL",
+    "logoURI": "",
+    "address": "0x724BA5e4507aD7501191eb77A900Ee8b4D7D44b9"
+  },
+  {
+    "symbol": "TOK",
+    "logoURI": "",
+    "address": "0xF4626dFCCFc36Ba1C941BC737E776768f6BD0173"
+  },
+  {
+    "symbol": "BAT",
+    "logoURI": "https://assets.coingecko.com/coins/images/677/small/basic-attention-token.png",
+    "address": "0xE43A8b1bfD19721E918b6068c158bf8faB41aBee"
+  },
+  {
+    "symbol": "DAI",
+    "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png?1574218774",
+    "address": "0x569AafF8F90A5E48B27C154249eE5A08eD0C44E2"
+  },
+  {
+    "symbol": "HT",
+    "logoURI": "https://assets.coingecko.com/coins/images/2822/small/huobi-token-logo.png?1547036992",
+    "address": "0x1d3b0B8C3E75B63E08E13904e6C2cD5F821E7488"
+  },
+  {
+    "symbol": "KNC",
+    "logoURI": "https://assets.coingecko.com/coins/images/14899/small/RwdVsGcw_400x400.jpg?1618923851",
+    "address": "0xc83d9cb7c365bA2851dF383498d1C8Cb94e043D4"
+  },
+  {
+    "symbol": "LAMB",
+    "logoURI": "https://assets.coingecko.com/coins/images/4703/small/Lambda-Logo.png?1547219112",
+    "address": "0xf6579f398426686D982EB81128983409eE302F8E"
+  },
+  {
+    "symbol": "LINK",
+    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
+    "address": "0xF6b1c64E86c1213088A6464484eBb8488635795D"
+  },
+  {
+    "symbol": "MCO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1776.png",
+    "address": "0x4b10bfb046cD6AAc5456aC62D506Ae766EeEa685"
+  },
+  {
+    "symbol": "MLTT",
+    "logoURI": "https://assets.coingecko.com/coins/images/15659/small/milc_200x200.png?1621511031",
+    "address": "0x9c2B389C33e40eB8df9b288Ff8aCd31F9E07F8b6"
+  },
+  {
+    "symbol": "NEXO",
+    "logoURI": "https://assets.coingecko.com/coins/images/3695/small/nexo.png?1548086057",
+    "address": "0xd31Ec377dA3C5A7452b1f2bFB87bFB941D61a1Db"
+  },
+  {
+    "symbol": "OMG",
+    "logoURI": "https://assets.coingecko.com/coins/images/776/small/OMG_Network.jpg?1591167168",
+    "address": "0xb1952c4E36d153A49eccc01a4D93B9eCBaBb7208"
+  },
+  {
+    "symbol": "PHNX",
+    "logoURI": "https://assets.coingecko.com/coins/images/11523/small/Token_Icon.png?1618447147",
+    "address": "0xfe1b6ABc39E46cEc54d275efB4b29B33be176c2A"
+  },
+  {
+    "symbol": "REP",
+    "logoURI": "https://assets.coingecko.com/coins/images/309/small/REP.png?1596339859",
+    "address": "0x175Ac784563DE645647C6350F0CFc577Dcc7eE5b"
+  },
+  {
+    "symbol": "STORJ",
+    "logoURI": "https://assets.coingecko.com/coins/images/949/small/storj.png?1547034811",
+    "address": "0x8BCcB91D4BF058d83D7501Ca97E8e1428C5Ef6fc"
+  },
+  {
+    "symbol": "TRB",
+    "logoURI": "https://assets.coingecko.com/coins/images/9644/small/Blk_icon_current.png?1584980686",
+    "address": "0x07ccedb51B493c89d2743b554a03D57e1D268Dbc"
+  },
+  {
+    "symbol": "TUSD",
+    "logoURI": "https://assets.coingecko.com/coins/images/3449/small/tusd.png?1618395665",
+    "address": "0xa39F6eB676588Ff6f7e755D0A30A08dce5aD68E1"
+  },
+  {
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+    "address": "0xab5400b26149A3fF5918EFCdeB2C37903042E9ee"
+  },
+  {
+    "symbol": "USDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+    "address": "0xFb1D709cb959aC0EA14cAD0927EABC7832e65058"
+  },
+  {
+    "symbol": "TUSDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+    "address": "0xD92E713d051C37EbB2561803a3b5FBAbc4962431"
+  },
+  {
+    "symbol": "ZRX",
+    "logoURI": "https://assets.coingecko.com/coins/images/863/small/0x.png?1547034672",
+    "address": "0x962d9ACB11a0A985F5b348d5358FD8E9De4fDB8a"
+  }
+]
