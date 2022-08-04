@@ -7,10 +7,10 @@ const Home: FC<{}> = (): JSX.Element => {
     const intl = useIntl()
     const router = useRouter()
 
-    const translate = useCallback(
-        (id: string) => intl.formatMessage({ id }),
-        [],
-    )
+    // const translate = useCallback(
+    //     (id: string) => intl.formatMessage({ id }),
+    //     [],
+    // )
 
     useEffect(() => {
         router.push('/trading')
