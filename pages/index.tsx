@@ -20,7 +20,7 @@ const Home: FC<{}> = (): JSX.Element => {
     return (
         <>
             <Head>
-                <title>Opendax Test</title>
+                <title>{appTitle(translate('page.tab.header.home'))}</title>
             </Head>
         </>
     )
