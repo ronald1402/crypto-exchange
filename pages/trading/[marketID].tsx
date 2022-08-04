@@ -1,5 +1,4 @@
 import {
-    appTitle,
     klineFetch,
     openOrdersFetch,
     toggleWalletConnectModalOpen,
@@ -16,7 +15,7 @@ import { ChartAndOrderBookWidget, Layout } from '../../components'
 import dynamic from 'next/dynamic'
 import Head from 'next/head'
 import { useRouter } from 'next/router'
-import React, { FC, useCallback, useEffect, useMemo } from 'react'
+import React, { FC, useEffect, useMemo } from 'react'
 import { useIntl } from 'react-intl'
 
 const TradingChart = dynamic(() => import('@openware/opendax-web-sdk'), {
@@ -44,7 +43,7 @@ const OrderFormWidget = dynamic(() => import('@openware/opendax-web-sdk').then((
 })
 
 const TradingByMarket: FC<{}> = (): JSX.Element => {
-    const intl = useIntl()
+    // const intl = useIntl()
 
     const router = useRouter()
     const { marketID } = router.query
@@ -59,10 +58,10 @@ const TradingByMarket: FC<{}> = (): JSX.Element => {
     const isMobile = useSetMobileDevice()
     const isHorizontalMobile = useSetMobileDevice(true)
 
-    const translate = useCallback(
-        (id: string) => intl.formatMessage({ id }),
-        [],
-    )
+    // const translate = useCallback(
+    //     (id: string) => intl.formatMessage({ id }),
+    //     [],
+    // )
 
     const dispatch = useAppDispatch()
 
@@ -165,7 +164,7 @@ const TradingByMarket: FC<{}> = (): JSX.Element => {
     return (
         <>
             <Head>
-                <title>{appTitle(translate('page.tab.header.trading'))}</title>
+                <title>Test Title</title>
             </Head>
             <Layout className={layoutClassName}>
                 {(isMobile && isHorizontalMobile) ? renderMobile : renderDesktop}
