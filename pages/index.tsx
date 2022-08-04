@@ -1,4 +1,3 @@
-import { appTitle } from '@openware/opendax-web-sdk'
 import Head from 'next/head'
 import { useRouter } from 'next/router'
 import React, { FC, useCallback, useEffect } from 'react'
@@ -20,7 +19,7 @@ const Home: FC<{}> = (): JSX.Element => {
     return (
         <>
             <Head>
-                <title>{appTitle(translate('page.tab.header.home'))}</title>
+                <title>My page title</title>
             </Head>
         </>
     )
