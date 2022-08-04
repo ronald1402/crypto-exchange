@@ -16,7 +16,7 @@ import dynamic from 'next/dynamic'
 import Head from 'next/head'
 import { useRouter } from 'next/router'
 import React, { FC, useEffect, useMemo } from 'react'
-import { useIntl } from 'react-intl'
+// import { useIntl } from 'react-intl'
 
 const TradingChart = dynamic(() => import('@openware/opendax-web-sdk'), {
     ssr: false,
